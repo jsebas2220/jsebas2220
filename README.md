@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/johan-sebastian-jimenez-molina/"><img width="70" height="70" src="https://img.icons8.com/ios-filled/30/0A66C2/linkedin.png"/></a>
-  <a href="https://github.com/tuusuario"><img width="70" height="70" src="https://img.icons8.com/ios-filled/30/ffffff/github.png"/></a>
+  <a href="https://github.com/jsebas2220/jsebas2220/blob/main/README.md"><img width="70" height="70" src="https://img.icons8.com/ios-filled/30/ffffff/github.png"/></a>
   <a href="https://x.com/tuusuario"><img width="70" height="70" src="https://img.icons8.com/ios-filled/30/1DA1F2/twitter.png"/></a>
   <a href="https://www.instagram.com/tuusuario"><img width="70" height="70" src="https://img.icons8.com/ios-filled/30/E4405F/instagram-new.png"/></a>
 </p>
