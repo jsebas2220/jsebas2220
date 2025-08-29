@@ -2,6 +2,17 @@
 
  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
+ <div align="center">
+
+# Hi there 👋 I'm Johan Jimenez  
+
+💻 Software Developer | 🚀 Tech Enthusiast | 📚 Content Creator  
+
+---
+
+</div>
+
+
 <!--
 **jsebas2220/jsebas2220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
