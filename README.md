@@ -48,31 +48,48 @@ Professional with experience in technical support, server and database administr
 <div style="display: flex; gap: 20px;">
 
 <div style="flex: 1;">
-
-### 🔹 Technical Support  
-- Specialist in technical support for applications and databases.  
-- Experienced in incident management and resolution.  
-- Knowledge of **ITIL V4** for service management.  
-
-### 🔹 Programming / Development  
-- Back-End Developer (trainee): **Node.js, Java, PHP, Python**.  
-- Programming with **Bash shell scripting**.  
-- Development and management of **ChatBots** and **GPTs**.  
-- **Prompt Engineering** with Large Language Models (LLMs).  
-
+    ### 🔹 Technical Support  
+        - Specialist in technical support for applications and databases.  
+        - Experienced in incident management and resolution.  
+        - Knowledge of **ITIL V4** for service management.  
 </div>
 
 <div style="flex: 1;">
+   ### 🔹 Programming / Development  
+       - Back-End Developer (trainee): **Node.js, Java, PHP, Python**.  
+       - Programming with **Bash shell scripting**.  
+       - Development and management of **ChatBots** and **GPTs**.  
+       - **Prompt Engineering** with Large Language Models (LLMs).  
+</div>
 
-### 🔹 Cybersecurity  
-- Knowledge in **information security** and best practices.  
-- Ethical Hacking (**CEHPC**) and Technical Security – **Pentesting**.  
-- Experience with **Kali Linux** for penetration testing.  
-- Knowledge in **Blockchain** and **Cryptocurrencies**.  
-- Secure administration of servers and applications.  
+<div style="flex: 1;">
+     ### 🔹 Cybersecurity  
+          - Knowledge in **information security** and best practices.  
+          - Ethical Hacking (**CEHPC**) and Technical Security – **Pentesting**.  
+          - Experience with **Kali Linux** for penetration testing.  
+          - Knowledge in **Blockchain** and **Cryptocurrencies**.  
+          - Secure administration of servers and applications.  
+</div>
 
-### 🎯 Professional Objective  
-Apply and expand my knowledge in **back-end development, DevOps, and IT operations**, integrating **artificial intelligence** and **cybersecurity** to optimize development processes, increase efficiency, and enhance strategies in digital marketing and technology-driven products.  
+<div style="flex: 1;">
+     ### 🔹 Databases  
+          - Administration and operation of **Oracle, MySQL, SQL, MariaDB**.  
+          - Query optimization and database environment management.  
+          - Development of automated scripts for queries.  
+</div>
+<div style="flex: 1;">
+     ### 🔹 Servers / Operating Systems  
+         - Administration of **Windows** and **Linux servers** (RedHat, CentOS).  
+         - Configuration, monitoring, and maintenance of production and non-production environments.  
+         - Advanced command-line tool usage.  
+</div>
+
+<div style="flex: 1;">
+     ### 🔹 Artificial Intelligence  
+      - Knowledge in **AI, Deep Learning, and LLMs**.  
+      - Application of AI in software development and digital strategies.  
+      - Creation of **strategic prompts** to optimize processes.
+</div>
 
 </div>
 </div>
