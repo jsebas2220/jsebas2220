@@ -92,6 +92,18 @@ Knowledge in information security and best practices. Ethical Hacking (CEHPC) an
   <a href="https://www.instagram.com/tuusuario"><img width="50" height="50" src="https://img.icons8.com/color/48/ubuntu--v1.png" alt="ubuntu--v1"/></a>
   <a href="https://www.instagram.com/tuusuario"><img width="50" height="50" src="https://img.icons8.com/color/48/windows-11.png" alt="windows-11"/></a>
 </p>
+---
+
+### 🔹 Data Bses
+Administration and operation of Oracle, MySQL, SQL, MariaDB. Query optimization and database environment management. Development of automated scripts for queries.
+<p align="left">
+  <a href="https://www.linkedin.com/in/tuusuario"><img width="50" height="50" src="https://img.icons8.com/fluency/48/sql.png" alt="sql"/></a>
+  <a href="https://github.com/tuusuario"><img width="50" height="50" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/></a>
+  <a href="https://x.com/tuusuario"><img width="50" height="50" src="https://img.icons8.com/plasticine/100/oracle-pl-sql--v3.png" alt="oracle-pl-sql--v3"/></a>
+  <a href="https://www.instagram.com/tuusuario"><img width="50" height="50" src="https://img.icons8.com/plasticine/100/postgreesql.png" alt="postgreesql"/></a>
+  <a href="https://www.instagram.com/tuusuario"><img width="50" height="50" src="https://img.icons8.com/color/48/maria-db.png" alt="maria-db"/></a>
+</p>
+
 </div>
 </div>
 
