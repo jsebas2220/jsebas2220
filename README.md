@@ -80,7 +80,7 @@ Knowledge in information security and best practices. Ethical Hacking (CEHPC) an
   <a href="https://www.linkedin.com/in/tuusuario"><img width="50" height="50" src="https://img.icons8.com/dusk/64/linux.png" alt="linux"/></a>
   <a href="https://github.com/tuusuario"><img width="50" height="50" src="https://img.icons8.com/plasticine/100/kali-linux.png" alt="kali-linux"/></a>
   <a href="https://x.com/tuusuario"><img width="50" height="50" src="https://img.icons8.com/ink/48/centos.png" alt="centos"/></a>
-  <a href="https://www.instagram.com/tuusuario"><img width="100" height="100" src="https://img.icons8.com/3d-fluency/94/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/></a>
+  <a href="https://www.instagram.com/tuusuario"><img width="50" height="50" src="https://img.icons8.com/color/48/ubuntu--v1.png" alt="ubuntu--v1"/></a>
   <a href="https://www.instagram.com/tuusuario"><img width="100" height="100" src="https://img.icons8.com/arcade/64/php.png" alt="php"/></a>
 </p>
 ---
