@@ -45,15 +45,13 @@ Professional with experience in technical support, server and database administr
 
 ## 🚀 Areas of Expertise  
 
-Specialist in technical support for applications and databases.
-Experienced in incident management and resolution.
-Knowledge of ITIL V4 for service management.
-
 <div style="display: flex; gap: 20px;">
 
 <div style="flex: 1;">
 
 ### 🔹 Technical Support  
+Specialist in technical support for applications and databases. Experienced in incident management and resolution. Knowledge of ITIL V4 for service management.
+
 <p align="left">
   <a href="https://www.linkedin.com/in/tuusuario"><img width="100" height="100" src="https://img.icons8.com/3d-fluency/94/service.png" alt="service"/></a>
   <a href="https://github.com/tuusuario"><img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/work.png" alt="work"/></a>
