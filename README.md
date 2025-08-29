@@ -45,6 +45,8 @@ Professional with experience in technical support, server and database administr
 
 ## 🚀 Areas of Expertise  
 
+---
+
 <div style="display: flex; gap: 20px;">
 
 <div style="flex: 1;">
@@ -71,8 +73,9 @@ Back-End Developer (trainee): Node.js, Java, PHP, Python. Programming with Bash 
   <a href="https://www.instagram.com/tuusuario"><img width="50" height="50" src="https://img.icons8.com/arcade/64/php.png" alt="php"/></a>
 </p>
 
-<div style="flex: 1;">
 ---
+
+<div style="flex: 1;">
 ### 🔹 Server & Cibebersecurity  
 <p align="left">
   <a href="https://www.linkedin.com/in/tuusuario"><img width="70" height="70" src="https://img.icons8.com/external-those-icons-flat-those-icons/24/external-Linux-logos-and-brands-those-icons-flat-those-icons.png" alt="external-Linux-logos-and-brands-those-icons-flat-those-icons"/></a>
