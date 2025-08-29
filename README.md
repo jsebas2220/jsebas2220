@@ -74,8 +74,9 @@ Back-End Developer (trainee): Node.js, Java, PHP, Python. Programming with Bash 
 
 ---
 
-<div style="flex: 1;">
 ### 🔹 Server & Cibebersecurity  
+Administration of Windows and Linux servers (RedHat, CentOS). Configuration, monitoring, and maintenance of production and non-production environments. Advanced command-line tool usage.
+Knowledge in information security and best practices. Ethical Hacking (CEHPC) and Technical Security – Pentesting. Experience with Kali Linux for penetration testing. Knowledge in Blockchain and Cryptocurrencies. Secure administration of servers and applications.
 <p align="left">
   <a href="https://www.linkedin.com/in/tuusuario"><img width="50" height="50" src="https://img.icons8.com/dusk/64/linux.png" alt="linux"/></a>
   <a href="https://github.com/tuusuario"><img width="100" height="100" src="https://img.icons8.com/arcade/64/javascript.png" alt="javascript"/></a>
