@@ -45,12 +45,9 @@ Professional with experience in technical support, server and database administr
 
 
 ## 🚀 Areas of Expertise  
-
-## 🚀 Areas of Expertise  
-
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="50%" style="border: 1px solid gray; padding: 10px;">
       
       ### 🔹 Technical Support  
       - Specialist in technical support for applications and databases.  
@@ -58,7 +55,7 @@ Professional with experience in technical support, server and database administr
       - Knowledge of **ITIL V4** for service management.  
 
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="50%" style="border: 1px solid gray; padding: 10px;">
       
       ### 🔹 Programming / Development  
       - Back-End Developer (trainee): **Node.js, Java, PHP, Python**.  
@@ -69,3 +66,4 @@ Professional with experience in technical support, server and database administr
     </td>
   </tr>
 </table>
+
