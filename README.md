@@ -50,7 +50,6 @@ Professional with experience in technical support, server and database administr
 <div style="flex: 1;">
 
 ### 🔹 Technical Support  
-
 <p align="left">
   <a href="https://www.linkedin.com/in/tuusuario"><img width="100" height="100" src="https://img.icons8.com/3d-fluency/94/service.png" alt="service"/></a>
   <a href="https://github.com/tuusuario"><img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/work.png" alt="work"/></a>
@@ -59,12 +58,12 @@ Professional with experience in technical support, server and database administr
 </p>
 
 ### 🔹 Programming / Development  
-- Back-End Developer (trainee): **Node.js, Java, PHP, Python**.  
-- Programming with **Bash shell scripting**.  
-- Development and management of **ChatBots** and **GPTs**.  
-- **Prompt Engineering** with Large Language Models (LLMs).  
-
-</div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/tuusuario"><img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/></a>
+  <a href="https://github.com/tuusuario"><img width="64" height="64" src="https://img.icons8.com/arcade/64/javascript.png" alt="javascript"/></a>
+  <a href="https://x.com/tuusuario"><img width="100" height="100" src="https://img.icons8.com/plasticine/100/python.png" alt="python"/></a>
+  <a href="https://www.instagram.com/tuusuario"><img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/></a>
+</p>
 
 <div style="flex: 1;">
 
