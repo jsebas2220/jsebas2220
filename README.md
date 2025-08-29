@@ -60,12 +60,13 @@ Specialist in technical support for applications and databases. Experienced in i
 </p>
 
 ### 🔹 Programming / Development  
+Back-End Developer (trainee): Node.js, Java, PHP, Python. Programming with Bash shell scripting. Development and management of ChatBots and GPTs. Prompt Engineering with Large Language Models (LLMs).
 <p align="left">
-  <a href="https://www.linkedin.com/in/tuusuario"><img width="100" height="100" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/></a>
-  <a href="https://github.com/tuusuario"><img width="100" height="100" src="https://img.icons8.com/arcade/64/javascript.png" alt="javascript"/></a>
-  <a href="https://x.com/tuusuario"><img width="100" height="100" src="https://img.icons8.com/plasticine/100/python.png" alt="python"/></a>
-  <a href="https://www.instagram.com/tuusuario"><img width="100" height="100" src="https://img.icons8.com/3d-fluency/94/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/></a>
-  <a href="https://www.instagram.com/tuusuario"><img width="100" height="100" src="https://img.icons8.com/arcade/64/php.png" alt="php"/></a>
+  <a href="https://www.linkedin.com/in/tuusuario"><img width="50" height="50" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/></a>
+  <a href="https://github.com/tuusuario"><img width="50" height="50" src="https://img.icons8.com/arcade/64/javascript.png" alt="javascript"/></a>
+  <a href="https://x.com/tuusuario"><img width="50" height="50" src="https://img.icons8.com/plasticine/100/python.png" alt="python"/></a>
+  <a href="https://www.instagram.com/tuusuario"><img width="50" height="50" src="https://img.icons8.com/3d-fluency/94/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/></a>
+  <a href="https://www.instagram.com/tuusuario"><img width="50" height="50" src="https://img.icons8.com/arcade/64/php.png" alt="php"/></a>
 </p>
 
 <div style="flex: 1;">
