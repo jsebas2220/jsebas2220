@@ -50,9 +50,13 @@ Professional with experience in technical support, server and database administr
 <div style="flex: 1;">
 
 ### 🔹 Technical Support  
-- Specialist in technical support for applications and databases.  
-- Experienced in incident management and resolution.  
-- Knowledge of **ITIL V4** for service management.  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tuusuario"><img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/service.png" alt="service"/></a>
+  <a href="https://github.com/tuusuario"><img width="70" height="70" src="https://img.icons8.com/ios-filled/30/ffffff/github.png"/></a>
+  <a href="https://x.com/tuusuario"><img width="70" height="70" src="https://img.icons8.com/ios-filled/30/1DA1F2/twitter.png"/></a>
+  <a href="https://www.instagram.com/tuusuario"><img width="70" height="70" src="https://img.icons8.com/ios-filled/30/E4405F/instagram-new.png"/></a>
+</p>
 
 ### 🔹 Programming / Development  
 - Back-End Developer (trainee): **Node.js, Java, PHP, Python**.  
