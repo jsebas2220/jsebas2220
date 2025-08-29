@@ -45,7 +45,16 @@ Professional with experience in technical support, server and database administr
 - Back-End Developer (trainee): **Node.js, Java, PHP, Python**.  
 - Programming with **Bash shell scripting**.  
 - Development and management of **ChatBots** and **GPTs**.  
-- **Prompt Engineering** with Large Language Models (LLMs).  
+- **Prompt Engineering** with Large Language Models (LLMs).
+
+  
+### 🛠 &nbsp;Tech Stack
+
+<p align="left"> 
+    <a href="https://www.w3schools.com/js/default.asp" target="_blank"> <img width="100" height="100" src="https://img.icons8.com/arcade/64/javascript.png" alt="javascript"/>
+    <a href="https://www.w3schools.com/python/default.asp" target="_blank"> <img width="100" height="100" src="https://img.icons8.com/plasticine/100/python.png" alt="python"/>
+    <a href="https://www.w3schools.com/php/default.asp" target="_blank"> <img width="100" height="100" src="https://img.icons8.com/arcade/64/php.png" alt="php"/>
+</p>
 
 ---
 
@@ -95,24 +104,5 @@ Professional with experience in technical support, server and database administr
 
 ---
 
-### 🎯 Professional Objective  
-Apply and expand my knowledge in **back-end development, DevOps, and IT operations**, integrating **artificial intelligence** and **cybersecurity** to optimize development processes, increase efficiency, and enhance strategies in digital marketing and technology-driven products.  
-
-
-👨‍💻 &nbsp;I am Currently Working at Quinbay Technologies in Banglore as Backend Developer.\
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Information Technology at New Horizon College of Engineering .\
-🌱 &nbsp;I'm on track for learning more about Web3, Microservice Based Architecture, Machine Learning.\
-✍️ &nbsp;In my free time, I pursue Logo Designing and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at ingeniero.johanjimenez@gmail.com! I'll try to respond as soon as I can.\
-
-### 🛠 &nbsp;Tech Stack
-
-<p align="left"> 
-    <a href="https://www.w3schools.com/js/default.asp" target="_blank"> <img width="100" height="100" src="https://img.icons8.com/arcade/64/javascript.png" alt="javascript"/>
-    <a href="https://www.w3schools.com/python/default.asp" target="_blank"> <img width="100" height="100" src="https://img.icons8.com/plasticine/100/python.png" alt="python"/>
-    <a href="https://www.w3schools.com/php/default.asp" target="_blank"> <img width="100" height="100" src="https://img.icons8.com/arcade/64/php.png" alt="php"/>
-</p>
 
 
