@@ -76,6 +76,7 @@ Back-End Developer (trainee): Node.js, Java, PHP, Python. Programming with Bash 
   <a href="https://www.instagram.com/tuusuario"><img width="50" height="50" src="https://img.icons8.com/3d-fluency/94/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/></a>
   <a href="https://www.instagram.com/tuusuario"><img width="50" height="50" src="https://img.icons8.com/arcade/64/php.png" alt="php"/></a>
   <a href="https://www.instagram.com/tuusuario"><img width="50" height="50" src="https://img.icons8.com/pulsar-color/48/console.png" alt="console"/></a>
+ <a href="https://www.instagram.com/tuusuario"><img width="50" height="50" src="https://img.icons8.com/fluency/48/claude-ai.png" alt="claude-ai"/>></a>
 </p>
 
 ---
