@@ -45,25 +45,37 @@ Professional with experience in technical support, server and database administr
 
 
 ## 🚀 Areas of Expertise  
-<table>
-  <tr>
-    <td valign="top" width="50%" style="border: 1px solid gray; padding: 10px;">
-      
-      ### 🔹 Technical Support  
-      - Specialist in technical support for applications and databases.  
-      - Experienced in incident management and resolution.  
-      - Knowledge of **ITIL V4** for service management.  
+<div style="display: flex; gap: 20px;">
 
-    </td>
-    <td valign="top" width="50%" style="border: 1px solid gray; padding: 10px;">
-      
-      ### 🔹 Programming / Development  
-      - Back-End Developer (trainee): **Node.js, Java, PHP, Python**.  
-      - Programming with **Bash shell scripting**.  
-      - Development and management of **ChatBots** and **GPTs**.  
-      - **Prompt Engineering** with Large Language Models (LLMs).  
+<div style="flex: 1;">
 
-    </td>
-  </tr>
+### 🔹 Technical Support  
+- Specialist in technical support for applications and databases.  
+- Experienced in incident management and resolution.  
+- Knowledge of **ITIL V4** for service management.  
+
+### 🔹 Programming / Development  
+- Back-End Developer (trainee): **Node.js, Java, PHP, Python**.  
+- Programming with **Bash shell scripting**.  
+- Development and management of **ChatBots** and **GPTs**.  
+- **Prompt Engineering** with Large Language Models (LLMs).  
+
+</div>
+
+<div style="flex: 1;">
+
+### 🔹 Cybersecurity  
+- Knowledge in **information security** and best practices.  
+- Ethical Hacking (**CEHPC**) and Technical Security – **Pentesting**.  
+- Experience with **Kali Linux** for penetration testing.  
+- Knowledge in **Blockchain** and **Cryptocurrencies**.  
+- Secure administration of servers and applications.  
+
+### 🎯 Professional Objective  
+Apply and expand my knowledge in **back-end development, DevOps, and IT operations**, integrating **artificial intelligence** and **cybersecurity** to optimize development processes, increase efficiency, and enhance strategies in digital marketing and technology-driven products.  
+
+</div>
+</div>
+tr>
 </table>
 
