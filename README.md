@@ -33,6 +33,11 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm Johan Jimenez -->
 
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</div>
+
+
 ### 👨🏻‍💻 &nbsp;About Me
 
 Systems Engineer (in progress) | DevOps | Back-End Developer Trainee (Node.js, Java, PHP, Python)
