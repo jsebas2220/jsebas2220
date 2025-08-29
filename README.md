@@ -83,8 +83,11 @@ Knowledge in information security and best practices. Ethical Hacking (CEHPC) an
   <a href="https://www.instagram.com/tuusuario"><img width="50" height="50" src="https://img.icons8.com/color/48/ubuntu--v1.png" alt="ubuntu--v1"/></a>
   <a href="https://www.instagram.com/tuusuario"><img width="50" height="50" src="https://img.icons8.com/color/48/windows-11.png" alt="windows-11"/></a>
 </p>
+</div>
+</div>
+
 ---
-</div>
-</div>
+
+
 
 
