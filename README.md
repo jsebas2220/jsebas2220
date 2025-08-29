@@ -110,6 +110,8 @@ Administration and operation of Oracle, MySQL, SQL, MariaDB. Query optimization 
 </div>
 </div>
 
+---
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
