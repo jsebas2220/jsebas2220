@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tuusuario"><img width="70" height="70" src="https://img.icons8.com/ios-filled/30/0A66C2/linkedin.png"/></a>
-  <a href="https://github.com/tuusuario"><img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/work.png" alt="work"/></a>
+  <a href="https://github.com/tuusuario"><img width="70" height="70" src="https://img.icons8.com/ios-filled/30/ffffff/github.png"/></a>
   <a href="https://x.com/tuusuario"><img width="70" height="70" src="https://img.icons8.com/ios-filled/30/1DA1F2/twitter.png"/></a>
   <a href="https://www.instagram.com/tuusuario"><img width="70" height="70" src="https://img.icons8.com/ios-filled/30/E4405F/instagram-new.png"/></a>
 </p>
@@ -53,7 +53,7 @@ Professional with experience in technical support, server and database administr
 
 <p align="left">
   <a href="https://www.linkedin.com/in/tuusuario"><img width="100" height="100" src="https://img.icons8.com/3d-fluency/94/service.png" alt="service"/></a>
-  <a href="https://github.com/tuusuario"><img width="70" height="70" src="https://img.icons8.com/ios-filled/30/ffffff/github.png"/></a>
+  <a href="https://github.com/tuusuario"><img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/work.png" alt="work"/></a>
   <a href="https://x.com/tuusuario"><img width="70" height="70" src="https://img.icons8.com/ios-filled/30/1DA1F2/twitter.png"/></a>
   <a href="https://www.instagram.com/tuusuario"><img width="70" height="70" src="https://img.icons8.com/ios-filled/30/E4405F/instagram-new.png"/></a>
 </p>
