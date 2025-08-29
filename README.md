@@ -59,7 +59,7 @@ Specialist in technical support for applications and databases. Experienced in i
   <a href="https://www.instagram.com/tuusuario"><img width="50" height="50" src="https://img.icons8.com/pin/100/online-support.png" alt="online-support"/></a>
 </p>
 
---
+---
 
 ### 🔹 Programming / Development  
 Back-End Developer (trainee): Node.js, Java, PHP, Python. Programming with Bash shell scripting. Development and management of ChatBots and GPTs. Prompt Engineering with Large Language Models (LLMs).
@@ -72,7 +72,7 @@ Back-End Developer (trainee): Node.js, Java, PHP, Python. Programming with Bash 
 </p>
 
 <div style="flex: 1;">
-
+---
 ### 🔹 Server & Cibebersecurity  
 <p align="left">
   <a href="https://www.linkedin.com/in/tuusuario"><img width="70" height="70" src="https://img.icons8.com/external-those-icons-flat-those-icons/24/external-Linux-logos-and-brands-those-icons-flat-those-icons.png" alt="external-Linux-logos-and-brands-those-icons-flat-those-icons"/></a>
@@ -81,7 +81,7 @@ Back-End Developer (trainee): Node.js, Java, PHP, Python. Programming with Bash 
   <a href="https://www.instagram.com/tuusuario"><img width="100" height="100" src="https://img.icons8.com/3d-fluency/94/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/></a>
   <a href="https://www.instagram.com/tuusuario"><img width="100" height="100" src="https://img.icons8.com/arcade/64/php.png" alt="php"/></a>
 </p>
-
+---
 ### 🎯 Professional Objective  
 Apply and expand my knowledge in **back-end development, DevOps, and IT operations**, integrating **artificial intelligence** and **cybersecurity** to optimize development processes, increase efficiency, and enhance strategies in digital marketing and technology-driven products.  
 
