@@ -49,6 +49,8 @@ Professional with experience in technical support, server and database administr
 
 <div style="flex: 1;">
 
+<a _____________________________________________________________________________________________________________________________________________________________________
+
 ### 🔹 Technical Support  
 Specialist in technical support for applications and databases. Experienced in incident management and resolution. Knowledge of ITIL V4 for service management.
 
