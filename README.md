@@ -125,6 +125,7 @@ Administration and operation of Oracle, MySQL, SQL, MariaDB. Query optimization 
   </a>
 </p>
 
+<!--
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jsebas2220&theme=dark&hide_border=true"/>
 </p>
