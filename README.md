@@ -112,8 +112,11 @@ Administration and operation of Oracle, MySQL, SQL, MariaDB. Query optimization 
 
 ---
 
-### ⚙️ &nbsp;GitHub Analytics
-
+<div align="center">
+<h1 style="font-family: 'Courier New', monospace; font-size: 50px;">
+⚙️ GitHub Analytics
+</h1>
+</div>
 <p align="center">
   <a href="https://github.com/jsebas2220">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jsebas2220&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
