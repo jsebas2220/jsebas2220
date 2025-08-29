@@ -14,7 +14,7 @@
 
 # Hi there 👋 I'm Johan Jimenez  
 
-💻 Software Developer | 🚀 Tech Enthusiast | 📚 Content Creator  
+💻 Software Developer | 🚀 Tech Enthusiast | 🔒 DevOpSec Especialist
 
 ---
 
