@@ -43,65 +43,38 @@
 Systems Engineer (in progress) | DevOps | Back-End Developer Trainee (Node.js, Java, PHP, Python)
 Professional with experience in technical support, server and database administration, and strong knowledge of Cybersecurity and Artificial Intelligence (Deep Learning and LLMs). Skilled in agile methodologies (Scrum, ITIL V4) and the development of digital solutions focused on marketing, digital products, and online sales strategies.
 
-
 ## 🚀 Areas of Expertise  
-<## 🚀 Areas of Expertise  
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      
-      ### 🔹 Technical Support  
-      - Specialist in technical support for applications and databases.  
-      - Experienced in incident management and resolution.  
-      - Knowledge of **ITIL V4** for service management.  
+<div style="display: flex; gap: 20px;">
 
-      ### 🔹 Programming / Development  
-      - Back-End Developer (trainee): **Node.js, Java, PHP, Python**.  
-      - Programming with **Bash shell scripting**.  
-      - Development and management of **ChatBots** and **GPTs**.  
-      - **Prompt Engineering** with Large Language Models (LLMs).  
+<div style="flex: 1;">
 
-      ### 🔹 Servers / Operating Systems  
-      - Administration of **Windows** and **Linux servers** (RedHat, CentOS).  
-      - Configuration, monitoring, and maintenance of production and non-production environments.  
-      - Advanced command-line tool usage.  
+### 🔹 Technical Support  
+- Specialist in technical support for applications and databases.  
+- Experienced in incident management and resolution.  
+- Knowledge of **ITIL V4** for service management.  
 
-      ### 🔹 Databases  
-      - Administration and operation of **Oracle, MySQL, SQL, MariaDB**.  
-      - Query optimization and database environment management.  
-      - Development of automated scripts for queries.  
+### 🔹 Programming / Development  
+- Back-End Developer (trainee): **Node.js, Java, PHP, Python**.  
+- Programming with **Bash shell scripting**.  
+- Development and management of **ChatBots** and **GPTs**.  
+- **Prompt Engineering** with Large Language Models (LLMs).  
 
-    </td>
-    <td valign="top" width="50%">
-      
-      ### 🔹 Artificial Intelligence  
-      - Knowledge in **AI, Deep Learning, and LLMs**.  
-      - Application of AI in software development and digital strategies.  
-      - Creation of **strategic prompts** to optimize processes.  
+</div>
 
-      ### 🔹 Cybersecurity  
-      - Knowledge in **information security** and best practices.  
-      - Ethical Hacking (**CEHPC**) and Technical Security – **Pentesting**.  
-      - Experience with **Kali Linux** for penetration testing.  
-      - Knowledge in **Blockchain** and **Cryptocurrencies**.  
-      - Secure administration of servers and applications.  
+<div style="flex: 1;">
 
-      ### 🔹 Additional Knowledge  
-      - Agile Methodologies: **ITIL V4, Scrum**.  
-      - **Digital Marketing** strategies, sales funnels, and e-commerce.  
-      - **Brand positioning** and digital engagement.  
+### 🔹 Cybersecurity  
+- Knowledge in **information security** and best practices.  
+- Ethical Hacking (**CEHPC**) and Technical Security – **Pentesting**.  
+- Experience with **Kali Linux** for penetration testing.  
+- Knowledge in **Blockchain** and **Cryptocurrencies**.  
+- Secure administration of servers and applications.  
 
-      ### 🔹 Soft Skills  
-      - Strong **interpersonal communication**.  
-      - Team collaboration and independent project execution.  
-      - High sense of **responsibility**.  
-      - **Adaptability** and quick understanding of organizational policies.  
-      - Passion for **self-study** and continuous learning.  
+### 🎯 Professional Objective  
+Apply and expand my knowledge in **back-end development, DevOps, and IT operations**, integrating **artificial intelligence** and **cybersecurity** to optimize development processes, increase efficiency, and enhance strategies in digital marketing and technology-driven products.  
 
-      ### 🎯 Professional Objective  
-      Apply and expand my knowledge in **back-end development, DevOps, and IT operations**, integrating **artificial intelligence** and **cybersecurity** to optimize development processes, increase efficiency, and enhance strategies in digital marketing and technology-driven products.  
+</div>
+</div>
 
-    </td>
-  </tr>
-</table>
+
