@@ -70,7 +70,7 @@ Professional with experience in technical support, server and database administr
 
 ### 🔹 Server & Cibebersecurity  
 <p align="left">
-  <a href="https://www.linkedin.com/in/tuusuario"><img width="100" height="100" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-linux-a-family-of-open-source-unix-like-operating-systems-based-on-the-linux-kernel-logo-shadow-tal-revivo.png" alt="external-linux-a-family-of-open-source-unix-like-operating-systems-based-on-the-linux-kernel-logo-shadow-tal-revivo"/></a>
+  <a href="https://www.linkedin.com/in/tuusuario"><img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-linux-a-family-of-open-source-unix-like-operating-systems-based-on-the-linux-kernel-logo-color-tal-revivo.png" alt="external-linux-a-family-of-open-source-unix-like-operating-systems-based-on-the-linux-kernel-logo-color-tal-revivo"/></a>
   <a href="https://github.com/tuusuario"><img width="100" height="100" src="https://img.icons8.com/arcade/64/javascript.png" alt="javascript"/></a>
   <a href="https://x.com/tuusuario"><img width="100" height="100" src="https://img.icons8.com/plasticine/100/python.png" alt="python"/></a>
   <a href="https://www.instagram.com/tuusuario"><img width="100" height="100" src="https://img.icons8.com/3d-fluency/94/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/></a>
