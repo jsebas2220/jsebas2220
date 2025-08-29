@@ -18,7 +18,7 @@
 ### 🛠 &nbsp;Tech Stack
 
 <p align="left"> 
-    <a href="https://www.w3schools.com/js/default.asp" target="_blank"> <img width="64" height="64" src="https://img.icons8.com/arcade/64/javascript.png" alt="javascript"/>
+    <a href="https://www.w3schools.com/js/default.asp" target="_blank"> <img width="100" height="100" src="https://img.icons8.com/arcade/64/javascript.png" alt="javascript"/>
     <a href="https://www.w3schools.com/python/default.asp" target="_blank"> <img width="100" height="100" src="https://img.icons8.com/plasticine/100/python.png" alt="python"/>
 </p>
 
