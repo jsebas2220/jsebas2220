@@ -59,10 +59,10 @@ Professional with experience in technical support, server and database administr
 
 ### 🔹 Programming / Development  
 <p align="left">
-  <a href="https://www.linkedin.com/in/tuusuario"><img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/></a>
-  <a href="https://github.com/tuusuario"><img width="64" height="64" src="https://img.icons8.com/arcade/64/javascript.png" alt="javascript"/></a>
+  <a href="https://www.linkedin.com/in/tuusuario"><img width="100" height="100" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/></a>
+  <a href="https://github.com/tuusuario"><img width="100" height="100" src="https://img.icons8.com/arcade/64/javascript.png" alt="javascript"/></a>
   <a href="https://x.com/tuusuario"><img width="100" height="100" src="https://img.icons8.com/plasticine/100/python.png" alt="python"/></a>
-  <a href="https://www.instagram.com/tuusuario"><img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/></a>
+  <a href="https://www.instagram.com/tuusuario"><img width="100" height="100" src="https://img.icons8.com/3d-fluency/94/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/></a>
 </p>
 
 <div style="flex: 1;">
