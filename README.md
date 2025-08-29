@@ -84,9 +84,6 @@ Knowledge in information security and best practices. Ethical Hacking (CEHPC) an
   <a href="https://www.instagram.com/tuusuario"><img width="50" height="50" src="https://img.icons8.com/color/48/windows-11.png" alt="windows-11"/></a>
 </p>
 ---
-### 🎯 Professional Objective  
-Apply and expand my knowledge in **back-end development, DevOps, and IT operations**, integrating **artificial intelligence** and **cybersecurity** to optimize development processes, increase efficiency, and enhance strategies in digital marketing and technology-driven products.  
-
 </div>
 </div>
 
