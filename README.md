@@ -68,12 +68,14 @@ Professional with experience in technical support, server and database administr
 
 <div style="flex: 1;">
 
-### 🔹 Cybersecurity  
-- Knowledge in **information security** and best practices.  
-- Ethical Hacking (**CEHPC**) and Technical Security – **Pentesting**.  
-- Experience with **Kali Linux** for penetration testing.  
-- Knowledge in **Blockchain** and **Cryptocurrencies**.  
-- Secure administration of servers and applications.  
+### 🔹 Server & Cibebersecurity  
+<p align="left">
+  <a href="https://www.linkedin.com/in/tuusuario"><img width="100" height="100" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-linux-a-family-of-open-source-unix-like-operating-systems-based-on-the-linux-kernel-logo-shadow-tal-revivo.png" alt="external-linux-a-family-of-open-source-unix-like-operating-systems-based-on-the-linux-kernel-logo-shadow-tal-revivo"/></a>
+  <a href="https://github.com/tuusuario"><img width="100" height="100" src="https://img.icons8.com/arcade/64/javascript.png" alt="javascript"/></a>
+  <a href="https://x.com/tuusuario"><img width="100" height="100" src="https://img.icons8.com/plasticine/100/python.png" alt="python"/></a>
+  <a href="https://www.instagram.com/tuusuario"><img width="100" height="100" src="https://img.icons8.com/3d-fluency/94/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/></a>
+  <a href="https://www.instagram.com/tuusuario"><img width="100" height="100" src="https://img.icons8.com/arcade/64/php.png" alt="php"/></a>
+</p>
 
 ### 🎯 Professional Objective  
 Apply and expand my knowledge in **back-end development, DevOps, and IT operations**, integrating **artificial intelligence** and **cybersecurity** to optimize development processes, increase efficiency, and enhance strategies in digital marketing and technology-driven products.  
