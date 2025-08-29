@@ -110,7 +110,6 @@ Administration and operation of Oracle, MySQL, SQL, MariaDB. Query optimization 
 </div>
 </div>
 
----
 
 <div align="center">
 <h1 style="font-family: 'Courier New', monospace; font-size: 50px;">
