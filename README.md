@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Johan Jimenez
+### Hi there 👋 I'm Johan Jimenez
 
  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
