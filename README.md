@@ -59,7 +59,7 @@ Specialist in technical support for applications and databases. Experienced in i
   <a href="https://www.instagram.com/tuusuario"><img width="50" height="50" src="https://img.icons8.com/pin/100/online-support.png" alt="online-support"/></a>
 </p>
 
-## ____________________________________________________________________
+--
 
 ### 🔹 Programming / Development  
 Back-End Developer (trainee): Node.js, Java, PHP, Python. Programming with Bash shell scripting. Development and management of ChatBots and GPTs. Prompt Engineering with Large Language Models (LLMs).
