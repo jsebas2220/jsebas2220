@@ -21,10 +21,10 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/johan-sebastian-jimenez-molina/"><img width="70" height="70" src="https://img.icons8.com/ios-filled/30/0A66C2/linkedin.png"/></a>
-  <a href="https://github.com/jsebas2220/jsebas2220/blob/main/README.md"><img width="70" height="70" src="https://img.icons8.com/ios-filled/30/ffffff/github.png"/></a>
-  <a href="https://x.com/JohanJimn"><img width="48" height="48" src="https://img.icons8.com/badges/48/twitterx.png" alt="twitterx"/>
-  <a href="https://www.instagram.com/digitalempire.25/"><img width="70" height="70" src="https://img.icons8.com/ios-filled/30/E4405F/instagram-new.png"/></a>
+  <a href="https://www.linkedin.com/in/johan-sebastian-jimenez-molina/"><img width="60" height="60" src="https://img.icons8.com/ios-filled/30/0A66C2/linkedin.png"/></a>
+  <a href="https://github.com/jsebas2220/jsebas2220/blob/main/README.md"><img width="60" height="60" src="https://img.icons8.com/ios-filled/30/ffffff/github.png"/></a>
+  <a href="https://x.com/JohanJimn"><img width="60" height="60" src="https://img.icons8.com/badges/48/twitterx.png" alt="twitterx"/>
+  <a href="https://www.instagram.com/digitalempire.25/"><img width="60" height="60" src="https://img.icons8.com/ios-filled/30/E4405F/instagram-new.png"/></a>
 </p>
 
 
