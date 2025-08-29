@@ -20,6 +20,13 @@
 
 </div>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/tuusuario"><img src="https://img.icons8.com/ios-filled/30/0A66C2/linkedin.png"/></a>
+  <a href="https://github.com/tuusuario"><img src="https://img.icons8.com/ios-filled/30/ffffff/github.png"/></a>
+  <a href="https://x.com/tuusuario"><img src="https://img.icons8.com/ios-filled/30/1DA1F2/twitter.png"/></a>
+  <a href="https://www.instagram.com/tuusuario"><img src="https://img.icons8.com/ios-filled/30/E4405F/instagram-new.png"/></a>
+</p>
+
 
 <!--
 **jsebas2220/jsebas2220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
