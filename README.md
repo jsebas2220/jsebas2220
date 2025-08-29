@@ -45,8 +45,6 @@ Professional with experience in technical support, server and database administr
 
 ## 🚀 Areas of Expertise  
 
----
-
 <div style="display: flex; gap: 20px;">
 
 <div style="flex: 1;">
