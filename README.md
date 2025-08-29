@@ -52,7 +52,6 @@ Professional with experience in technical support, server and database administr
 
 ### 🔹 Technical Support  
 Specialist in technical support for applications and databases. Experienced in incident management and resolution. Knowledge of ITIL V4 for service management.
-
 <p align="left">
   <a href="https://www.linkedin.com/in/tuusuario"><img width="50" height="50" src="https://img.icons8.com/3d-fluency/94/service.png" alt="service"/></a>
   <a href="https://github.com/tuusuario"><img width="50" height="50" src="https://img.icons8.com/3d-fluency/94/work.png" alt="work"/></a>
@@ -77,7 +76,6 @@ Back-End Developer (trainee): Node.js, Java, PHP, Python. Programming with Bash 
 ### 🔹 Server & Cibebersecurity  
 Administration of Windows and Linux servers (RedHat, CentOS). Configuration, monitoring, and maintenance of production and non-production environments. Advanced command-line tool usage.
 Knowledge in information security and best practices. Ethical Hacking (CEHPC) and Technical Security – Pentesting. Experience with Kali Linux for penetration testing. Knowledge in Blockchain and Cryptocurrencies. Secure administration of servers and applications.
-
 <p align="left">
   <a href="https://www.linkedin.com/in/tuusuario"><img width="50" height="50" src="https://img.icons8.com/dusk/64/linux.png" alt="linux"/></a>
   <a href="https://github.com/tuusuario"><img width="50" height="50" src="https://img.icons8.com/plasticine/100/kali-linux.png" alt="kali-linux"/></a>
