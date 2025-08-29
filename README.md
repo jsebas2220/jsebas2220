@@ -57,56 +57,15 @@ Professional with experience in technical support, server and database administr
       - Experienced in incident management and resolution.  
       - Knowledge of **ITIL V4** for service management.  
 
+    </td>
+    <td valign="top" width="50%">
+      
       ### 🔹 Programming / Development  
       - Back-End Developer (trainee): **Node.js, Java, PHP, Python**.  
       - Programming with **Bash shell scripting**.  
       - Development and management of **ChatBots** and **GPTs**.  
       - **Prompt Engineering** with Large Language Models (LLMs).  
 
-      ### 🔹 Servers / Operating Systems  
-      - Administration of **Windows** and **Linux servers** (RedHat, CentOS).  
-      - Configuration, monitoring, and maintenance of production and non-production environments.  
-      - Advanced command-line tool usage.  
-
-      ### 🔹 Databases  
-      - Administration and operation of **Oracle, MySQL, SQL, MariaDB**.  
-      - Query optimization and database environment management.  
-      - Development of automated scripts for queries.  
-
-    </td>
-    <td valign="top" width="50%">
-      
-      ### 🔹 Artificial Intelligence  
-      - Knowledge in **AI, Deep Learning, and LLMs**.  
-      - Application of AI in software development and digital strategies.  
-      - Creation of **strategic prompts** to optimize processes.  
-
-      ### 🔹 Cybersecurity  
-      - Knowledge in **information security** and best practices.  
-      - Ethical Hacking (**CEHPC**) and Technical Security – **Pentesting**.  
-      - Experience with **Kali Linux** for penetration testing.  
-      - Knowledge in **Blockchain** and **Cryptocurrencies**.  
-      - Secure administration of servers and applications.  
-
-      ### 🔹 Additional Knowledge  
-      - Agile Methodologies: **ITIL V4, Scrum**.  
-      - **Digital Marketing** strategies, sales funnels, and e-commerce.  
-      - **Brand positioning** and digital engagement.  
-
-      ### 🔹 Soft Skills  
-      - Strong **interpersonal communication**.  
-      - Team collaboration and independent project execution.  
-      - High sense of **responsibility**.  
-      - **Adaptability** and quick understanding of organizational policies.  
-      - Passion for **self-study** and continuous learning.  
-
-      ### 🎯 Professional Objective  
-      Apply and expand my knowledge in **back-end development, DevOps, and IT operations**, integrating **artificial intelligence** and **cybersecurity** to optimize development processes, increase efficiency, and enhance strategies in digital marketing and technology-driven products.  
-
     </td>
   </tr>
 </table>
-
-
-
-
