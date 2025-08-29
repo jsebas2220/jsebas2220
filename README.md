@@ -1,6 +1,8 @@
 <div align="center">
 
-✨ *"Code is the language we use to turn ideas into reality."* ✨  
+<h2 style="font-family: 'Courier New', monospace; font-size: 28px;">
+✨ "Code is the language we use to turn ideas into reality." ✨
+</h2>
 
 </div>
 
