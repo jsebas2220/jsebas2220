@@ -43,7 +43,7 @@
 Systems Engineer (in progress) | DevOps | Back-End Developer Trainee (Node.js, Java, PHP, Python)
 Professional with experience in technical support, server and database administration, and strong knowledge of Cybersecurity and Artificial Intelligence (Deep Learning and LLMs). Skilled in agile methodologies (Scrum, ITIL V4) and the development of digital solutions focused on marketing, digital products, and online sales strategies.
 
-## 🚀 Areas of Expertise  
+### 🚀 Areas of Expertise
 
 <div style="display: flex; gap: 20px;">
 
