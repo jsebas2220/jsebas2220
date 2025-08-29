@@ -45,6 +45,10 @@ Professional with experience in technical support, server and database administr
 
 ## 🚀 Areas of Expertise  
 
+Specialist in technical support for applications and databases.
+Experienced in incident management and resolution.
+Knowledge of ITIL V4 for service management.
+
 <div style="display: flex; gap: 20px;">
 
 <div style="flex: 1;">
