@@ -37,14 +37,13 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </div>
 
-
-### 👨🏻‍💻 &nbsp;About Me
-div align="center">
-
+<div align="center">
 <h1 style="font-family: 'Courier New', monospace; font-size: 50px;">
+ About Me
+<h2>
 Systems Engineer (in progress) | DevOps | Back-End Developer Trainee (Node.js, Java, PHP, Python)
 Professional with experience in technical support, server and database administration, and strong knowledge of Cybersecurity and Artificial Intelligence (Deep Learning and LLMs). Skilled in agile methodologies (Scrum, ITIL V4) and the development of digital solutions focused on marketing, digital products, and online sales strategies.
-</h1>
+</h2>
 </div>
 
 
