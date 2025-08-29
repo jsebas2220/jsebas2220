@@ -49,8 +49,6 @@ Professional with experience in technical support, server and database administr
 
 <div style="flex: 1;">
 
-## ___________________________________________________________________________________________________________________________________________
-
 ### 🔹 Technical Support  
 Specialist in technical support for applications and databases. Experienced in incident management and resolution. Knowledge of ITIL V4 for service management.
 
@@ -60,6 +58,8 @@ Specialist in technical support for applications and databases. Experienced in i
   <a href="https://x.com/tuusuario"><img width="50" height="50" src="https://img.icons8.com/3d-fluency/94/chatbot.png" alt="chatbot"/></a>
   <a href="https://www.instagram.com/tuusuario"><img width="50" height="50" src="https://img.icons8.com/pin/100/online-support.png" alt="online-support"/></a>
 </p>
+
+## ____________________________________________________________________
 
 ### 🔹 Programming / Development  
 Back-End Developer (trainee): Node.js, Java, PHP, Python. Programming with Bash shell scripting. Development and management of ChatBots and GPTs. Prompt Engineering with Large Language Models (LLMs).
